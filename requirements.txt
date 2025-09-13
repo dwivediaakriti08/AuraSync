@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+fer
+tensorflow
+keras
+numpy
+pandas
+spotipy
+librosa
+sounddevice
+scikit-learn
