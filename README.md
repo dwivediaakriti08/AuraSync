@@ -25,3 +25,6 @@ git clone <repo_url>
 cd emotion-music-recommender
 pip install -r requirements.txt
 streamlit run app.py
+
+
+#Happy Coding !!!!
